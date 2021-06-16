@@ -1,5 +1,7 @@
-# covid-tracker
+# Covid Tracker
 
+
+## A Traversy Media Tutorial: Also my first Vue.JS Application
 ## Project setup
 ```
 yarn install
