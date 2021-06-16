@@ -1,7 +1,7 @@
 # Covid Tracker
 
 
-## A Traversy Media Tutorial: Also my first Vue.JS Application
+### A Traversy Media Tutorial: Also my first Vue.JS Application
 ## Project setup
 ```
 yarn install
@@ -24,4 +24,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# covid-tracker
